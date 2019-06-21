@@ -8,4 +8,4 @@ The source code provided in this repository shows a full, interactive demo of Me
 
 These steps are performed via action batches, and sample JSON files are generated through the process.
 
-#### After downloading all files here and editing _inventory.csv_, start the demo by running **python[3] demo.py**. Also for an example, watch the **Action Batches Demo.mp4** video.
+#### After downloading all files here and editing _inventory.csv_, start the demo by running _python[3] demo.py_. Also for an example, watch the _Action Batches Demo.mp4_ video.
