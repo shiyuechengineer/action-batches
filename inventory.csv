@@ -1,5 +1,5 @@
 ﻿Site,Location,MX device,MS device,MS IP,MR device,MR IP,MV device,Mgmt. VLAN,Address
-0,"San Diego, CA",QBSA-MGNB-UPVC,QBSB-CZAC-5SKK,10.0.1.2,QBSC-K6E9-JMQD,10.0.1.3,QBSD-BSBH-2HPC,1,"111 W Harbor Dr, San Diego, CA 92101"
+0,"San Diego, CA",Q2AB-CDEF-GHJK,Q2-LMNP-RSTU,10.0.1.2,Q2VW-XYZ0-1234,10.0.1.3,Q256-7890-CSCO,1,"111 W Harbor Dr, San Diego, CA 92101"
 1,"Boston, MA",,,10.1.1.2,,10.1.1.3,,11,"125 High St, Boston, MA 02110"
 2,"Fairbanks, AK",,,10.2.1.2,,10.2.1.3,,21,"433 Harold Bentley Ave, Fairbanks, AK 99701"
 3,"Akureyri, IS",,,10.3.1.2,,10.3.1.3,,31,"vio Eyrarlandsveg 600, Akureyri, Iceland"
