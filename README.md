@@ -15,4 +15,4 @@ These steps are performed via action batches, and sample JSON files are generate
 - Edit [inventory.csv](./inventory.csv) such that it includes information about your sites, locations, and devices
 - Start the demo by running `python[3] demo.py`
 
-To see an example, watch the [Action Batches Demo.mp4](./Action Batches Demo.mp4) video.
+To see an example, watch the [Action Batches Demo.mp4](./Action\ Batches\ Demo.mp4) video.
