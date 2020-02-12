@@ -1,3 +1,5 @@
+![Action Batches Demo](action-batch-demo.gif)
+
 # Demo of Meraki Dashboard API action batches 
 
 The source code provided in this repository shows a full, interactive demo of [action batches](https://developer.cisco.com/meraki/api/#/rest/guides/action-batches), a Meraki Dashboard API mechanism for submitting batched configuration requests in a single synchronous or asynchronous transaction. Using the files here, you'll be able to:
